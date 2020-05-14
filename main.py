@@ -22,13 +22,15 @@ def meetingURL(meetingID, password):
 # while(True):
 # today_timetable = timetable[today]
 printTodaySubjects()
-print(timetable["start-time"]["4"])
+
 while(True):
-    time.sleep(1)
     currnet_time = datetime.now().strftime('%H:%M')
     for classtime in range(1,timetable[today]["cnt"]+1):
         if(currnet_time == timetable["start-time"][str(classtime)]):
-            print("hello")
-    print(currnet_time + " ... " + timetable["start-time"]["4"])
-    if(currnet_time == timetable["start-time"]["4"]):
-        print("hello")
+            subject = timetable[today][str(classtime)]
+            meetingID = subjects[subject]["meetingID"]
+            password = subjects[subject]["password"]
+            url = meetingURL(meetingID, password)
+            webbrowser.open(url)
+    print(f'현재시각 : {currnet_time}')
+    time.sleep(10) # 10초마다 검사
