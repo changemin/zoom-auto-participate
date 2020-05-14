@@ -1,13 +1,9 @@
 # Zoom Meeting Auto Participate
 
-from now on, you don't need to enter password to each meetings
-
-it provides your break time
-
 all of json data is korean, but don't be afraid of it. just following the usage introduction bellow. and replace it into your language
 
 ## 🚨Caution
-    this program doesn't ask you to participate the meeting or not. 
+    this program doesn't notice you when participate to the meeting(yet)
 
     subject name should be 100% same between time-table.json and subjects.json
 
