@@ -1,54 +1,54 @@
 {
     "문학":{
-        "confno":8134411742,
+        "meetingID":8134411742,
         "password":"xxxxxx"
     },
     "수학":{
-        "confno":7965443330,
+        "meetingID":7965443330,
         "password":"xxxxxx"
     },
     "응용프로그래밍화면구현":{
-        "confno":3650046422,
+        "meetingID":3650046422,
         "password":"xxxxxx"
     },
     "물리학":{
-        "confno":7178015132,
+        "meetingID":7178015132,
         "password":"xxxxxx"
     },
     "영어":{
-        "confno":7126847915,
+        "meetingID":7126847915,
         "password":"xxxxxx"
     },
     "중국어":{
-        "confno":7722593481,
+        "meetingID":7722593481,
         "password":"xxxxxx"
     },
     "성공적인직업생활":{
-        "confno":7223454774,
+        "meetingID":7223454774,
         "password":"xxxxxx"
     },
     "자료구조":{
-        "confno":3650046422,
+        "meetingID":3650046422,
         "password":"xxxxxx"
     },
     "공업수학":{
-        "confno":7987833794,
+        "meetingID":7987833794,
         "password":"xxxxxx"
     },
     "운동과건강":{
-        "confno":7864104388,
+        "meetingID":7864104388,
         "password":"xxxxxx"
     },
     "정보통신":{
-        "confno":3335559622,
+        "meetingID":3335559622,
         "password":"xxxxxx"
     },
     "응용프로그래밍개발":{
-        "confno":6863031340,
+        "meetingID":6863031340,
         "password":"xxxxxx"
     },
     "진로":{
-        "confno":3955689232,
+        "meetingID":3955689232,
         "password":"xxxxxx"
     }
 }
