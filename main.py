@@ -34,4 +34,4 @@ while(True):
             webbrowser.open(url)
             print(f'open subject : {subject}')
     # print(f'현재시각 : {currnet_time}')
-    time.sleep(10) # 10초마다 검사
+    time.sleep(60) # 10초마다 검사
