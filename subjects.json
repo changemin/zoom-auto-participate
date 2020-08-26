@@ -1,54 +1,54 @@
 {
     "문학":{
         "meetingID":8134411742,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "수학":{
         "meetingID":7965443330,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "응용프로그래밍화면구현":{
         "meetingID":3650046422,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
-    "물리학":{
-        "meetingID":7178015132,
-        "password":"xxxxxx"
+    "화학":{
+        "meetingID":4361766687,
+        "password":"dimigo"
     },
     "영어":{
         "meetingID":7126847915,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "중국어":{
         "meetingID":7722593481,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "성공적인직업생활":{
         "meetingID":7223454774,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "자료구조":{
         "meetingID":3650046422,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "공업수학":{
         "meetingID":7987833794,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "운동과건강":{
         "meetingID":7864104388,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "정보통신":{
         "meetingID":3335559622,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "응용프로그래밍개발":{
         "meetingID":6863031340,
-        "password":"xxxxxx"
+        "password":"dimigo"
     },
     "진로":{
         "meetingID":3955689232,
-        "password":"xxxxxx"
+        "password":"dimigo"
     }
 }
